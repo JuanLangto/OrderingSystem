@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Among Kusina</string>
+    <string name="order_eat"><![CDATA[Order & Eat]]></string>
+    <string name="special_icecream">Special IceCream</string>
+    <string name="specialtoest">SpecialToest</string>
+    <string name="specialpasta">SpecialPasta:</string>
+    <string name="totalrder">TOTALRDER</string>
+</resources>
